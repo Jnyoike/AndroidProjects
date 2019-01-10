@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="reset">Reset</string>
+    <string name="roll">Roll</string>
+    <string name="bank">Bank</string>
+    <string name="userScore">Your Score: 0</string>
+    <string name="compScore">Computer Score: 0</string>
+    <string name="dice1">First Dice Face</string>
+    <string name="turnScore">Your turn score is: 0</string>
+    <string name="Turn">It\'s the Player\'s Turn</string>
+
+
+</resources>
